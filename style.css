@@ -1,0 +1,14 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(#6d8bf9,#6e4);
+}
+.calc{
+    width: 301px;
+    height: 608px;
+    background-color: #ffd;
+}
